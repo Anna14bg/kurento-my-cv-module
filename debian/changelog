@@ -1,0 +1,5 @@
+my-cv-module (0.0.1~rc1) testing; urgency=medium
+
+  * Initial release.
+
+ -- Maintainer Name <maintainer.name@example.com>  Mon, 05 Apr 2021 15:23:24 +0000
